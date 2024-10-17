@@ -61,7 +61,7 @@ xkb_symbols "basic" {
 // 2014-10-25 by SteveP, https://colemakmods.github.io/mod-dh/
 
 partial alphanumeric_keys
-xkb_symbols "dh" {
+xkb_symbols "colemak_dh" {
 
     name[Group1]= "English (colemak_dh)";
 
